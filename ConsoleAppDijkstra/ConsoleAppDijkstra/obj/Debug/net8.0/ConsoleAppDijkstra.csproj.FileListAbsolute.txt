@@ -1,0 +1,14 @@
+C:\Users\mirko.paganelli\Desktop\ConsoleAppDijkstra\ConsoleAppDijkstra\bin\Debug\net8.0\ConsoleAppDijkstra.exe
+C:\Users\mirko.paganelli\Desktop\ConsoleAppDijkstra\ConsoleAppDijkstra\bin\Debug\net8.0\ConsoleAppDijkstra.deps.json
+C:\Users\mirko.paganelli\Desktop\ConsoleAppDijkstra\ConsoleAppDijkstra\bin\Debug\net8.0\ConsoleAppDijkstra.runtimeconfig.json
+C:\Users\mirko.paganelli\Desktop\ConsoleAppDijkstra\ConsoleAppDijkstra\bin\Debug\net8.0\ConsoleAppDijkstra.dll
+C:\Users\mirko.paganelli\Desktop\ConsoleAppDijkstra\ConsoleAppDijkstra\bin\Debug\net8.0\ConsoleAppDijkstra.pdb
+C:\Users\mirko.paganelli\Desktop\ConsoleAppDijkstra\ConsoleAppDijkstra\obj\Debug\net8.0\ConsoleAppDijkstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirko.paganelli\Desktop\ConsoleAppDijkstra\ConsoleAppDijkstra\obj\Debug\net8.0\ConsoleAppDijkstra.AssemblyInfoInputs.cache
+C:\Users\mirko.paganelli\Desktop\ConsoleAppDijkstra\ConsoleAppDijkstra\obj\Debug\net8.0\ConsoleAppDijkstra.AssemblyInfo.cs
+C:\Users\mirko.paganelli\Desktop\ConsoleAppDijkstra\ConsoleAppDijkstra\obj\Debug\net8.0\ConsoleAppDijkstra.csproj.CoreCompileInputs.cache
+C:\Users\mirko.paganelli\Desktop\ConsoleAppDijkstra\ConsoleAppDijkstra\obj\Debug\net8.0\ConsoleAppDijkstra.dll
+C:\Users\mirko.paganelli\Desktop\ConsoleAppDijkstra\ConsoleAppDijkstra\obj\Debug\net8.0\refint\ConsoleAppDijkstra.dll
+C:\Users\mirko.paganelli\Desktop\ConsoleAppDijkstra\ConsoleAppDijkstra\obj\Debug\net8.0\ConsoleAppDijkstra.pdb
+C:\Users\mirko.paganelli\Desktop\ConsoleAppDijkstra\ConsoleAppDijkstra\obj\Debug\net8.0\ConsoleAppDijkstra.genruntimeconfig.cache
+C:\Users\mirko.paganelli\Desktop\ConsoleAppDijkstra\ConsoleAppDijkstra\obj\Debug\net8.0\ref\ConsoleAppDijkstra.dll
